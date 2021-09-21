@@ -1,6 +1,6 @@
 ![keyboard](images/fr.png)
 
-[site](https://github.com/kislak/french)
+[site](https://kislak.github.io/french/)
 
 [Leçon 1](lessons/lesson1)
 
