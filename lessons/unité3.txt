@@ -36,7 +36,6 @@ Passez devant la poste et la banque et vous arrivez place de l'Opéra. Ça va ?
 - Oui, oui.
 - Ensuite, prenez la grande avenue en face et continuez tout droit, jusqu'au bout.
 - Hum, hum
-
 - Et après, traversez la rue de Rivoli et entrez dans la cour du Louvre.
 À droite, vous avez le jardin des Tuileries et à gauche le Louvre.
 L'entrée du musée est sous la Pyramide.
@@ -82,3 +81,5 @@ le musée sous la Pyramide.
 - Il entre au musée ? - Oui,
 - Vous arrivez au Louvre ? - Oui,
 - Vous allez dans ce magasin ? - Oui,
+
+I'y vais à paid?
